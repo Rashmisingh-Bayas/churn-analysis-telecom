@@ -25,10 +25,13 @@ The company has a **26.5% annual churn rate**. This project identifies the key d
 🔗 ![Dashboard Screenshot](dashboard.png)
 (https://datastudio.google.com/reporting/b87b42bd-bf91-41c8-9a22-2fb3075447f0)
 
+
 ## Project Structure
+
+```text
 Churn-Project/
 ├── data/
-│   ├── churn.csv (raw)
+│   ├── churn.csv
 │   └── cleaned_churn.csv
 ├── notebooks/
 │   ├── 01_cleaning.py
