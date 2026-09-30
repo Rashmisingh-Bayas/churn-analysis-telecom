@@ -22,7 +22,8 @@ The company has a **26.5% annual churn rate**. This project identifies the key d
 3. **Review High-Price Plans** — Add extra perks to justify higher monthly charges.
 
 ## Live Dashboard
-🔗 [View the Interactive Dashboard on Looker Studio](https://datastudio.google.com/reporting/b87b42bd-bf91-41c8-9a22-2fb3075447f0)
+🔗 ![Dashboard Screenshot](dashboard.png)
+(https://datastudio.google.com/reporting/b87b42bd-bf91-41c8-9a22-2fb3075447f0)
 
 ## Project Structure
 Churn-Project/
